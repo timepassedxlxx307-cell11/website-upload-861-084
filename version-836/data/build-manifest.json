@@ -1,0 +1,9 @@
+{
+  "site_title": "国产电视剧视频免费在线观看：高清热播剧集平台-国产好剧推荐",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "cover_rule": "第 N 条影片引用顶级目录 X.jpg，X = ((N - 1) % 150) + 1。",
+  "provided_images_in_upload": 0,
+  "video_sources_extracted_from_uploaded_js": 20
+}

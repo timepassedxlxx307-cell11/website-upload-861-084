@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "video_sources": 20,
+  "html_pages": 2014,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_covered_movie_links": 2000,
+  "analytics_missing": [],
+  "forbidden_terms_found": [],
+  "image_files_in_output": [],
+  "category_counts": {
+    "oumei-jingxuan": 200,
+    "gaoqing-dianying": 200,
+    "rebo-juji": 200,
+    "jingdian-laopian": 200,
+    "zuixin-remen": 200,
+    "dongzuo-maoxian": 200,
+    "xuanyi-jingsong": 200,
+    "kehuan-qihuan": 200,
+    "juqing-wenyi": 200,
+    "xiju-zhiyu": 200
+  }
+}
